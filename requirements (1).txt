@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+vaderSentiment
+textblob
+gradio==5.50.0
+matplotlib
